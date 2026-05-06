@@ -11,7 +11,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 190px;
-  background: linear-gradient(45deg, #00aeff, #7bc3fd, #77f0f8, #c2f3fa, #cfeff3);
+  background:rgb(253, 253, 253);
 }
 
 form {
