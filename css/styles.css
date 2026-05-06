@@ -1,0 +1,48 @@
+.demo-form-card{
+  background:rgb(253, 253, 253);
+  border: 1px solid #ccc;
+  border-radius:8px;
+  padding:29px;
+  max-width: 350px;
+  margin: auto;
+  box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 190px;
+  background: linear-gradient(45deg, #00aeff, #7bc3fd, #77f0f8, #c2f3fa, #cfeff3);
+}
+
+form {
+  max-width: 400px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+.checkbox {
+  margin-top: 12px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0b7dda;
+}
